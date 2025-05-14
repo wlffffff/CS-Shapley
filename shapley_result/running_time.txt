@@ -1,0 +1,249 @@
+TMC_shapley: client number_10 iteration_30 running_time: 5793.997120857239s
+
+Delta_shapley: client number_10 0.0~0.4 running_time: 9174.66700387001s
+Delta_shapley: client number_10 0.2~0.3 running_time: 4302.650532007217s
+Delta_shapley: client number_10 0.33~0.66 running_time: 22382.750391960144s
+Delta_shapley: client number_10 0.3~0.6 running_time: 18269.627064943314s
+
+Mab_stratified_n_shapley: client number_10 selected strat_3 para_H_50.0 running_time: 8230.783658504486s
+Mab_stratified_n_shapley: client number_10 selected strat_3 para_H_150.0 running_time: 7900.684279203415s
+Mab_stratified_n_shapley: client number_10 selected strat_3 para_H_100.0 running_time: 7198.51083445549s
+Mab_stratified_n_shapley: client number_10 selected strat_3 para_H_200.0 running_time: 8109.47379732132s
+Mab_stratified_n_shapley: client number_10 selected strat_3 para_H_250.0 running_time: 10530.922258377075s
+Mab_stratified_n_shapley: client number_10 selected strat_3 para_H_300.0 running_time: 12147.41577386856s
+Mab_stratified_n_shapley: client number_10 selected strat_3 para_H_500.0 running_time: 12247.531480550766s
+
+Mab_stratified_n_shapley: client number_10 selected strat_2 para_H_50.0 running_time: 6373.1493718624115s
+Mab_stratified_n_shapley: client number_10 selected strat_2 para_H_100.0 running_time: 6261.933515787125s
+Mab_stratified_n_shapley: client number_10 selected strat_2 para_H_150.0 running_time: 6280.351936578751s
+Mab_stratified_n_shapley: client number_10 selected strat_2 para_H_200.0 running_time: 6196.681433916092s
+
+Mab_stratified_n_shapley: client number_10 selected strat_1 para_H_50.0 running_time: 1511.7456741333008s
+Mab_stratified_n_shapley: client number_10 selected strat_1 para_H_100.0 running_time: 1509.146332502365s
+Mab_stratified_n_shapley: client number_10 selected strat_1 para_H_150.0 running_time: 1521.6234509944916s
+Mab_stratified_n_shapley: client number_10 selected strat_1 para_H_200.0 running_time: 1487.1138310432434s
+
+
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_200.0 Para_iteration_100 running_time: 1592.9002046585083s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_200.0 Para_iteration_150 running_time: 1841.3862068653107s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_200.0 Para_iteration_200 running_time: 2028.5683465003967s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_200.0 Para_iteration_250 running_time: 2124.530937433243s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_200.0 Para_iteration_300 running_time: 2304.276116132736s
+
+
+# Mab_N_mc_shapley_test 150~600 iteration
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_200.0 Para_iteration_150 running_time: 2156.2117240428925s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_200.0 Para_iteration_200 running_time: 2416.121376514435s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_200.0 Para_iteration_250 running_time: 2637.5935521125793s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_200.0 Para_iteration_300 running_time: 2877.029725074768s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_200.0 Para_iteration_350 running_time: 3012.2686944007874s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_200.0 Para_iteration_400 running_time: 3182.914820432663s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_200.0 Para_iteration_450 running_time: 3340.954956293106s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_200.0 Para_iteration_500 running_time: 3460.3715806007385s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_200.0 Para_iteration_550 running_time: 3600.135367155075s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_200.0 Para_iteration_600 running_time: 3716.030279159546s
+
+
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_20000.0 Para_iteration_600 running_time: 3658.126907348633s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_200.0 Para_iteration_600 running_time: 3661.8539469242096s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_250.0 Para_iteration_600 running_time: 3592.621826648712s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_300.0 Para_iteration_600 running_time: 3636.196992635727s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_350.0 Para_iteration_600 running_time: 3632.865865468979s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_400.0 Para_iteration_600 running_time: 3686.7114667892456s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_450.0 Para_iteration_600 running_time: 3646.0985913276672s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_500.0 Para_iteration_600 running_time: 3674.3664264678955s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_1000.0 Para_iteration_600 running_time: 3712.280386209488s
+
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_100.0 Para_iteration_600 running_time: 3729.1393234729767s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_50.0 Para_iteration_600 running_time: 2828.2620182037354s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_30.0 Para_iteration_600 running_time: 2634.2730584144592s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_20.0 Para_iteration_600 running_time: 3308.4703760147095s
+
+Mab_N_mc_shapley: client number_10 selected strat_3 para_H_100.0 Para_iteration_900 running_time: 4736.14474773407s
+Mab_N_mc_shapley: client number_10 selected strat_3 para_H_50.0 Para_iteration_900 running_time: 5343.875928878784s
+Mab_N_mc_shapley: client number_10 selected strat_3 para_H_30.0 Para_iteration_900 running_time: 5409.294524908066s
+Mab_N_mc_shapley: client number_10 selected strat_3 para_H_20.0 Para_iteration_900 running_time: 5804.8612225055695s
+
+Mab_stratified_n_shapley: client number_10 selected strat_3 para_H_50.0 running_time: 8070.3117089271545s
+Mab_stratified_n_shapley: client number_10 selected strat_2 para_H_50.0 running_time: 2713.487639904022s
+Mab_stratified_n_shapley: client number_10 selected strat_1 para_H_50.0 running_time: 1226.6857035160065s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_30.0 Para_iteration_600 running_time: 2200.686585664749s
+Delta_shapley: client number_10 0.2~0.3 running_time: 4119.23352432251s
+Delta_shapley: client number_10 0.3~0.6 running_time: 19217.29449748993s
+GTG_shapley: client number_10 iteration_30 running_time: 5896.186081647873s
+TMC_shapley: client number_10 iteration_30 running_time: 5410.302280187607s
+Exact_shapley: client number_10 running_time: 25573.33553814888s
+Mab_stratified_n_shapley: client number_10 selected strat_3 para_H_50.0 running_time: 8022.42223906517s
+Mab_stratified_n_shapley: client number_10 selected strat_2 para_H_50.0 running_time: 4610.960882902145s
+Mab_stratified_n_shapley: client number_10 selected strat_1 para_H_50.0 running_time: 1227.9311518669128s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_30.0 Para_iteration_600 running_time: 3314.8699264526367s
+Delta_shapley: client number_10 0.2~0.3 running_time: 4152.721725702286s
+Delta_shapley: client number_10 0.3~0.6 running_time: 19383.035439014435s
+GTG_shapley: client number_10 iteration_30 running_time: 5713.354733943939s
+TMC_shapley: client number_10 iteration_30 running_time: 5265.638075351715s
+Exact_shapley: client number_10 running_time: 25346.289652109146s
+Mab_stratified_n_shapley: client number_10 selected strat_3 para_H_50.0 running_time: 7873.896550893784s
+Mab_stratified_n_shapley: client number_10 selected strat_2 para_H_50.0 running_time: 2519.5818116664886s
+Mab_stratified_n_shapley: client number_10 selected strat_1 para_H_50.0 running_time: 1255.353672504425s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_30.0 Para_iteration_600 running_time: 2253.2204558849335s
+Delta_shapley: client number_10 0.2~0.3 running_time: 4238.6896777153015s
+Delta_shapley: client number_10 0.3~0.6 running_time: 19740.43708562851s
+GTG_shapley: client number_10 iteration_30 running_time: 5866.194459915161s
+TMC_shapley: client number_10 iteration_30 running_time: 5535.717127323151s
+Exact_shapley: client number_10 running_time: 25186.44514989853s
+Mab_stratified_n_shapley: client number_10 selected strat_3 para_H_50.0 running_time: 7331.927829504013s
+Mab_stratified_n_shapley: client number_10 selected strat_2 para_H_50.0 running_time: 6209.441646099091s
+Mab_stratified_n_shapley: client number_10 selected strat_1 para_H_50.0 running_time: 1218.9098072052002s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_30.0 Para_iteration_600 running_time: 3020.218518972397s
+Delta_shapley: client number_10 0.2~0.3 running_time: 4143.532251358032s
+Delta_shapley: client number_10 0.3~0.6 running_time: 19287.216362953186s
+GTG_shapley: client number_10 iteration_30 running_time: 6018.05826997757s
+TMC_shapley: client number_10 iteration_30 running_time: 6003.81291103363s
+Mab_N_mc_shapley_nonND: client number_5 selected strat_2 para_H_50.0 Para_iteration_150 running_time: 222.25891518592834s
+Mab_N_mc_shapley_nonND: client number_5 selected strat_2 para_H_50.0 Para_iteration_150 running_time: 242.10060358047485s
+Mab_N_mc_shapley_nonND: client number_5 selected strat_2 para_H_50.0 Para_iteration_150 running_time: 104.01665997505188s
+Mab_N_mc_shapley_nonND: client number_5 selected strat_2 para_H_50.0 Para_iteration_150 running_time: 100.42745923995972s
+Mab_N_mc_shapley_equal_dist: client number_10 selected strat_2 para_H_50.0 Para_iteration_600 running_time: 3945.096527814865s
+Mab_N_mc_shapley_normalize_dist: client number_10 selected strat_2 para_H_50.0 Para_iteration_600 running_time: 2042.8458197116852s
+Exact_shapley: client number_10 running_time: 37456.75121831894s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_50.0 Para_iteration_600 running_time: 3753.77322101593s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_50.0 Para_iteration_600 running_time: 5390.443402528763s
+Mab_N_mc_shapley_equal_dist: client number_10 selected strat_2 para_H_50.0 Para_iteration_600 running_time: 8065.449135065079s
+Mab_N_mc_shapley_normalize_dist: client number_10 selected strat_2 para_H_50.0 Para_iteration_600 running_time: 2638.3510270118713s
+Exact_shapley: client number_10 running_time: 38033.005568027496s
+Mab_N_mc_shapley: client number_10 selected strat_2 para_H_50.0 Para_iteration_600 running_time: 3449.13526058197s
+Mab_N_mc_shapley_equal_dist: client number_10 selected strat_2 para_H_50.0 Para_iteration_600 running_time: 4296.061800956726s
+Mab_N_mc_shapley_normalize_dist: client number_10 selected strat_2 para_H_50.0 Para_iteration_600 running_time: 2581.106769323349s
+Exact_shapley: client number_10 running_time: 37360.83432173729s
+Mab_stratified_n_shapley: client number_10 selected strat_2 para_H_50.0 running_time: 3614.4799387454987s
+Mab_stratified_n_shapley: client number_10 selected strat_2 para_H_50.0 running_time: 5698.939713478088s
+Mab_stratified_n_shapley: client number_10 selected strat_2 para_H_50.0 running_time: 5715.010138511658s
+Mab_stratified_n_shapley: client number_10 selected strat_2 para_H_50.0 running_time: 3655.626476764679s
+Exact_shapley: client number_5 running_time: 95.33078289031982s
+Exact_shapley: client number_5 running_time: 91.32498621940613s
+Exact_shapley: client number_5 running_time: 89.85031986236572s
+CS_Shapley_Original: client number_5 running_time: 91.14614415168762s
+CS_Shapley_Original: client number_5 running_time: 52.700031042099s
+CS_Shapley_Original: client number_5 running_time: 53.2541937828064s
+CS_Shapley_Original: client number_5 running_time: 52.014912843704224s
+CS_Shapley_Original: client number_5 running_time: 53.3473117351532s
+CS_Shapley_Original: client number_10 running_time: 300.1733191013336s
+CGSV: client number_10 running_time: 26.78154492378235s
+CGSV: client number_10 running_time: 26.59965968132019s
+CoAst: client number_10 running_time: 26.92774510383606s
+CoAst: client number_10 running_time: 252.1075234413147s
+CoAst: client number_10 running_time: 27.910601377487183s
+CoAst: client number_10 running_time: 80.71564888954163s
+CoAst: client number_10 running_time: 85.10857200622559s
+CoAst: client number_10 running_time: 82.50010967254639s
+CoAst: client number_10 running_time: 82.07495141029358s
+CoAst: client number_10 running_time: 83.26373076438904s
+CoAst: client number_3 running_time: 17.912362813949585s
+CoAst: client number_3 running_time: 17.815990447998047s
+CoAst: client number_10 running_time: 80.71948170661926s
+CoAst: client number_10 running_time: 28.567451238632202s
+CGSV: client number_10 running_time: 25.905909299850464s
+LOO: client number_10 running_time: 63.58547616004944s
+LOO: client number_10 running_time: 66.6674132347107s
+LOO: client number_10 running_time: 67.75979113578796s
+LOO: client number_10 running_time: 68.62155604362488s
+LOO: client number_10 running_time: 68.05173873901367s
+Exact_shapley: client number_5 running_time: 2286.2388594150543s
+Exact_shapley: client number_5 running_time: 2267.7454884052277s
+Exact_shapley: client number_5 running_time: 2301.1027755737305s
+Exact_shapley: client number_5 running_time: 2290.0415530204773s
+Exact_shapley: client number_5 running_time: 2256.350744009018s
+Exact_shapley: client number_5 running_time: 126.97688293457031s
+Exact_shapley: client number_5 running_time: 127.00147485733032s
+Exact_shapley: client number_5 running_time: 126.57687520980835s
+Exact_shapley: client number_5 running_time: 127.70531868934631s
+Exact_shapley: client number_5 running_time: 125.74637627601624s
+Exact_shapley: client number_5 running_time: 127.90345001220703s
+Exact_shapley: client number_5 running_time: 127.3635048866272s
+Exact_shapley: client number_5 running_time: 127.99801564216614s
+Exact_shapley: client number_5 running_time: 128.25384902954102s
+Exact_shapley: client number_5 running_time: 126.21130156517029s
+Exact_shapley: client number_5 running_time: 126.59934043884277s
+Exact_shapley: client number_5 running_time: 127.3305549621582s
+Exact_shapley: client number_5 running_time: 125.75390672683716s
+Exact_shapley: client number_5 running_time: 126.00724363327026s
+Exact_shapley: client number_5 running_time: 2108.5077896118164s
+Exact_shapley: client number_5 running_time: 2121.571073770523s
+Exact_shapley: client number_5 running_time: 2164.592195034027s
+Exact_shapley: client number_5 running_time: 2227.655505657196s
+LOO: client number_30 running_time: 225.08097982406616s
+CGSV: client number_30 running_time: 37.306424140930176s
+CoAst: client number_30 running_time: 37.61621356010437s
+LOO: client number_30 running_time: 3672.178540945053s
+CGSV: client number_30 running_time: 559.052983045578s
+CoAst: client number_30 running_time: 560.7993216514587s
+CS_Shapley_Parallel: client number_5 running_time: 135.18888783454895s
+LOO: client number_30 running_time: 3856.840279340744s
+CGSV: client number_30 running_time: 580.2787823677063s
+CoAst: client number_30 running_time: 575.3635721206665s
+LOO: client number_30 running_time: 2061.651905298233s
+CGSV: client number_30 running_time: 324.65311312675476s
+CoAst: client number_30 running_time: 332.1830403804779s
+LOO: client number_30 running_time: 2228.4442176818848s
+CGSV: client number_30 running_time: 337.38641905784607s
+CoAst: client number_30 running_time: 340.48822808265686s
+CS_Shapley_Parallel: client number_10 running_time: 7165.818872213364s
+Exact_shapley: client number_5 running_time: 212.0914556980133s
+Exact_shapley_Parallel: client number_5 running_time: 247.75051307678223s
+CS_Shapley_Parallel: client number_5 running_time: 143.94516324996948s
+GTG_shapley: client number_5 iteration_30 running_time: 912.0567717552185s
+GTG_shapley_parallel: client number_5 iteration_29 running_time: 150.78870463371277s
+Exact_shapley: client number_5 running_time: 214.25764727592468s
+Exact_shapley_Parallel: client number_5 running_time: 251.5915036201477s
+CS_Shapley_Parallel: client number_5 running_time: 149.6676378250122s
+GTG_shapley: client number_5 iteration_30 running_time: 938.9681987762451s
+GTG_shapley_parallel: client number_5 iteration_29 running_time: 150.43550896644592s
+Exact_shapley: client number_5 running_time: 215.23596477508545s
+Exact_shapley_Parallel: client number_5 running_time: 250.8964672088623s
+CS_Shapley_Parallel: client number_5 running_time: 144.37349677085876s
+GTG_shapley: client number_5 iteration_30 running_time: 962.7911880016327s
+GTG_shapley_parallel: client number_5 iteration_29 running_time: 108.59420585632324s
+
+# 4.23
+Exact_shapley: client number_10 running_time: 64456.04949617386s
+Exact_shapley_Parallel: client number_10 running_time: 68838.86685872078s
+CS_Shapley_Parallel: client number_10 running_time: 22381.207485198975s
+GTG_shapley: client number_10 iteration_30 running_time: 18635.1888320446s
+GTG_shapley_parallel: client number_10 iteration_29 running_time: 2997.8423643112183s
+Exact_shapley_Parallel: client number_10 running_time: 7232.319380998611s
+Exact_shapley: client number_10 running_time: 66988.0166990757s
+GTG_shapley: client number_10 iteration_30 running_time: 10459.415036201477s
+CS_Shapley_Parallel: client number_10 running_time: 1054.1108355522156s
+CS_Shapley_Parallel: client number_10 running_time: 15596.254313230515s
+CS_Shapley_Parallel: client number_10 running_time: 58530.09020280838s
+CS_Shapley_Parallel: client number_10 running_time: 51430.37885212898s
+CS_Shapley_Parallel: client number_10 running_time: 61085.794001579285s
+
+
+# 4.29
+Exact_shapley_Parallel: client number_10 running_time: 141578.1670768261s
+CS_Shapley_Parallel: client number_10 running_time: 114106.5077073574s
+CS_Shapley_Parallel: client number_10 running_time: 50779.99079203606s
+CS_Shapley_Parallel: client number_10 running_time: 50913.487300634384s
+CS_Shapley_Parallel: client number_10 running_time: 42122.31890487671s
+CS_Shapley_Parallel: client number_10 running_time: 44972.89163994789s
+Exact_shapley: client number_10 running_time: 64827.066017627716s
+CS_Shapley_Parallel: client number_10 running_time: 24744.400918006897s
+CS_Shapley_Parallel: client number_10 running_time: 24284.00458097458s
+CS_Shapley_Parallel: client number_10 running_time: 23316.186869621277s
+GTG_shapley: client number_10 iteration_30 running_time: 8771.200500965118s
+CS_Shapley_Parallel: client number_10 running_time: 13006.364144086838s
+CS_Shapley_Parallel: client number_10 running_time: 13009.776534557343s
+CS_Shapley_Parallel: client number_10 running_time: 7827.24208688736s
+CS_Shapley_Parallel: client number_10 running_time: 7764.752791643143s
+Exact_shapley: client number_10 running_time: 64669.032222270966s
+CS_Shapley_Parallel: client number_10 running_time: 23939.32009458542s
+CS_Shapley_Parallel: client number_10 running_time: 13209.785159111023s
+CS_Shapley_Parallel: client number_10 running_time: 7673.321452617645s
+GTG_shapley: client number_10 iteration_30 running_time: 10804.866527080536s
+Exact_shapley: client number_10 running_time: 65050.24280691147s
+CS_Shapley_Parallel: client number_10 running_time: 23636.388536930084s
+CS_Shapley_Parallel: client number_10 running_time: 13927.529708862305s
+CS_Shapley_Parallel: client number_10 running_time: 8016.176271677017s
+GTG_shapley: client number_10 iteration_0 running_time: 9381.709157705307s
+Exact_shapley: client number_10 running_time: 64217.010331869125s
